@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ3YnhxcnBqdnR0eWdjbGVsZnZqaDVkNmRkdXk2MWViZ3gyd2I3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Sourav Mondal Banner" width="100%" />
+</p>
+
+
 <h1 align="center">👋 Hey there, I'm Sourav Mondal</h1>
 <p align="center">
   <b>Ethical Hacker | Bug Bounty Hunter | CTF Player</b><br>
