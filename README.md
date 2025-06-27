@@ -49,13 +49,13 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE">
+  <a href="/https://www.linkedin.com/in/sourav-mondal-bab332275YOUR-LINK-HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://hackerone.com/YOUR-HACKERONE-HANDLE">
+  <a href="https://hackerone.com/-HACKERONE-HANDLE">
     <img src="https://img.shields.io/badge/HackerOne-111?style=for-the-badge&logo=hackerone&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:souravsm3297@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
