@@ -32,7 +32,7 @@
 
 ### 🚀 Projects & Repositories
 
-- 🕵️‍♂️ [CTF Writeups & Challenges](https://github.com/souravmandal/CTF-Writeups)  
+- 🕵️‍♂️ [CTF Writeups & Challenges](https://github.com/sourav8497/TryHackMe-Room-Blog)  
 - 🔍 [Bug Bounty Recon Scripts](https://github.com/souravmandal/Bug-Bounty-Recon)  
 - ⚙️ [Python & Bash Security Tools](https://github.com/souravmandal/Security-Tools)
 
